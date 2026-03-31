@@ -17,5 +17,5 @@
 ***
 ## 使用教程：
 首先，我们先找到源代码文件：
-![这个！]([/Rout/img-intro/Rout-yangz.png](https://github.com/AEjunjun/Rout/blob/main/img-intro/Rout-yangz.png))
+![这个！](https://github.com/AEjunjun/Rout/blob/main/img-intro/Rout-yangz.png)
    _This is a lightweight software restriction program written in C++.
