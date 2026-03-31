@@ -10,21 +10,40 @@
 - 软件体积轻量
 - 软件使用简单
 - 基本不会被杀毒软件报错
+- 隐蔽性好，后台运行
 **缺点**
 - 软件没有窗口
 - 使用需要修改源代码【.cpp】+重新编译
 - 需要有一定的的C++基础
 ***
 ## 使用教程：
-1. 我们先找到源码.cpp文件：
+1. 下载
+2. 我们先找到源码.cpp文件:
 
 ![文件](https://github.com/AEjunjun/Rout/blob/main/img-intro/Rout-yangz.png)
 
-2. 使用编译器打开源码并找到这一行代码：
+3. 使用编译器打开源码并找到这一行代码:
 
 ![文件](https://github.com/AEjunjun/Rout/blob/main/img-intro/Rout-yuanma.png)
-注释：我这里推荐使用Red Panda Dev-C++打开
 
-3. 
+注释：我这里推荐使用Red Panda Dev-C++打开，这是修改时间的;
 
-   _This is a lightweight software restriction program written in C++.
+4. 随后修改软件id，指定你想要被限制的软件:
+
+![图片](https://github.com/AEjunjun/Rout/blob/main/img-intro/Rout-yuanma2.png)
+
+注释：在任务管理器可以查进程id;
+
+5. 编译完成后运行Rout.exe，在任务托盘会出现一个后台任务，可以右键关闭它:
+
+！[图片](https://github.com/AEjunjun/Rout/blob/main/img-intro/yanshi.png)
+***
+### 嘱咐
+里面还有其他元素可以修改，你也可以以此创作与学习，谢谢！
+
+---
+## 版权与许可 
+© [2026.3.31] [@Cat_Fox_junjun](https://github.com/AEjunjun) (原作者)
+本作品采用 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) 许可协议发布。  
+- 您可自由使用、修改、分发本作品，但需遵守 GPL v3.0 条款（如修改后的作品也需开源、保留版权声明等）。  
+- 完整协议文本见项目根目录 [LICENSE](./LICENSE) 文件。
