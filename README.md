@@ -16,7 +16,15 @@
 - 需要有一定的的C++基础
 ***
 ## 使用教程：
-我们先找到源码.cpp文件：
+1. 我们先找到源码.cpp文件：
 
 ![文件](https://github.com/AEjunjun/Rout/blob/main/img-intro/Rout-yangz.png)
+
+2. 使用编译器打开源码并找到这一行代码：
+
+![文件](https://github.com/AEjunjun/Rout/blob/main/img-intro/Rout-yuanma.png)
+注释：我这里推荐使用Red Panda Dev-C++打开
+
+3. 
+
    _This is a lightweight software restriction program written in C++.
