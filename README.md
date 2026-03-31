@@ -17,14 +17,17 @@
 - 需要有一定的的C++基础
 ***
 ## 使用教程：
-1. 下载
+1. 下载找到Rout.zip下载:
+
+![图片](https://github.com/AEjunjun/Rout/blob/main/img-intro/Xiazai.png)
+
 2. 我们先找到源码.cpp文件:
 
-![文件](https://github.com/AEjunjun/Rout/blob/main/img-intro/Rout-yangz.png)
+![图片](https://github.com/AEjunjun/Rout/blob/main/img-intro/Rout-yangz.png)
 
 3. 使用编译器打开源码并找到这一行代码:
 
-![文件](https://github.com/AEjunjun/Rout/blob/main/img-intro/Rout-yuanma.png)
+![图片](https://github.com/AEjunjun/Rout/blob/main/img-intro/Rout-yuanma.png)
 
 注释：我这里推荐使用Red Panda Dev-C++打开，这是修改时间的;
 
