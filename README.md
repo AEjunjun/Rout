@@ -47,4 +47,4 @@
 
 本作品采用 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) 许可协议发布。  
 - 您可自由使用、修改、分发本作品，但需遵守 GPL v3.0 条款（如修改后的作品也需开源、保留版权声明等）。  
-- 完整协议文本见项目根目录 [LICENSE](./LICENSE) 文件。
+- 完整协议文本见项目根目录 [LICENSE](https://github.com/AEjunjun/Rout/edit/main/README.md) 文件。
