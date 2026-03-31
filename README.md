@@ -17,7 +17,7 @@
 - 需要有一定的的C++基础
 ***
 ## 使用教程：
-1. 下载找到Rout.cpp下载:
+1. 找到Rout.cpp下载:
 2. 我们先找到源码Rout.cpp文件:
 
 ![图片](https://github.com/AEjunjun/Rout/blob/main/img-intro/Rout-yangz.png)
