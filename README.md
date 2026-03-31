@@ -36,7 +36,7 @@
 
 5. 编译完成后运行Rout.exe，在任务托盘会出现一个后台任务，可以右键关闭它:
 
-！[图片](https://github.com/AEjunjun/Rout/blob/main/img-intro/yanshi.png)
+![图片](https://github.com/AEjunjun/Rout/blob/main/img-intro/yanshi.png)
 ***
 ### 嘱咐
 里面还有其他元素可以修改，你也可以以此创作与学习，谢谢！
@@ -44,6 +44,7 @@
 ---
 ## 版权与许可 
 © [2026.3.31] [@Cat_Fox_junjun](https://github.com/AEjunjun) (原作者)
+
 本作品采用 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) 许可协议发布。  
 - 您可自由使用、修改、分发本作品，但需遵守 GPL v3.0 条款（如修改后的作品也需开源、保留版权声明等）。  
 - 完整协议文本见项目根目录 [LICENSE](./LICENSE) 文件。
